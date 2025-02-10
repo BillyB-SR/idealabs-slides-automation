@@ -1,0 +1,540 @@
+{
+  "slides": [
+    {
+      "slideNumber": 1,
+      "notes": "Title Page - No changes needed",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g30afa4bc20e_0_192",
+            "text": "Herbal Essences\nArgan Oil Creative Strategy"
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g30afa4bc20e_0_193",
+            "image_description": "",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32d5352d83a_0_0",
+            "image_description": "",
+            "isBackground": false
+          }
+        ]
+      }
+    },
+    {
+      "slideNumber": 2,
+      "notes": "Agenda outline - no change needed",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g30afa4bc20e_0_396",
+            "text": "Today’s\u000bAgenda"
+          },
+          {
+            "objectId": "g30afa4bc20e_0_398",
+            "text": "The Opportunity"
+          },
+          {
+            "objectId": "g30afa4bc20e_0_402",
+            "text": "Research & Insights"
+          },
+          {
+            "objectId": "g30afa4bc20e_0_404",
+            "text": "Recommended Approach"
+          },
+          {
+            "objectId": "g30afa4bc20e_0_406",
+            "text": "Feedback"
+          }
+        ],
+        "IMAGE": []
+      }
+    },
+    {
+      "slideNumber": 3,
+      "notes": "“The Oppurtunity” page - do not adjust “The opportunity” just the 1-3 paragraphs",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g30b5aa971a7_0_93",
+            "text": "Herbal Essences Argan Oil Shampoo is uniquely positioned to tap into the rising trend of at-home self-care. Consumers, especially young women aged 18-34, are increasingly seeking products that transform mundane routines into indulgent, sensory experiences. With its authentic botanical ingredients and signature fragrance, the brand can evoke the feeling of a luxurious Moroccan Garden Retreat with every wash.\n\nDigital channels like TikTok, Instagram Stories, and Facebook Feed present an ideal opportunity to deliver immersive, bite‐sized experiences that capture attention and drive brand recall. By leveraging cutting-edge creative—combining generative AI visuals, 3D product renderings, and real lifestyle assets—the campaign can transform an everyday shampoo routine into an exotic escape.\n\nThis opportunity not only differentiates Herbal Essences in a crowded market but also reinforces its natural, ethical ethos and appeals directly to a digitally savvy audience eager for authentic, sensory-driven brand experiences."
+          },
+          {
+            "objectId": "g30b5aa971a7_0_101",
+            "text": "The Opportunity"
+          }
+        ],
+        "IMAGE": []
+      }
+    },
+    {
+      "slideNumber": 4,
+      "notes": "“Insights” page - highlight 3 key insights discovered via our research - ideally these points can relate to the creative direction that we took. Additionally add an image description for the small thumbnail images above each title.",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g30b5aa971a7_0_11",
+            "text": "Insights"
+          },
+          {
+            "objectId": "g30b5aa971a7_0_12",
+            "text": "Sensory Escape"
+          },
+          {
+            "objectId": "g30b5aa971a7_0_13",
+            "text": "Consumers crave transformative, sensory experiences that turn everyday routines into moments of indulgence."
+          },
+          {
+            "objectId": "g30b5aa971a7_0_14",
+            "text": "Digital Engagement"
+          },
+          {
+            "objectId": "g30b5aa971a7_0_15",
+            "text": "Short-form, immersive content on platforms like TikTok and Instagram Stories drives high engagement and brand recall."
+          },
+          {
+            "objectId": "g30b5aa971a7_0_20",
+            "text": "Authentic Botanicals"
+          },
+          {
+            "objectId": "g30b5aa971a7_0_21",
+            "text": "Natural ingredients and ethical practices resonate deeply with today’s health- and eco-conscious consumers."
+          },
+          {
+            "objectId": "g30b5aa971a7_0_23",
+            "text": "Our research shows that immersive sensory experiences, authentic natural ingredients, and high-impact short-form content are key drivers in engaging the target audience and building lasting brand connections."
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g30b5aa971a7_0_16",
+            "image_description": "Close-up of a Moroccan mosaic pattern with botanical accents.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g30b5aa971a7_0_17",
+            "image_description": "Serene Moroccan garden scene with warm golden light.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g30b5aa971a7_0_22",
+            "image_description": "Herbal Essences product styled with authentic natural textures.",
+            "isBackground": false
+          }
+        ]
+      }
+    },
+    {
+      "slideNumber": 5,
+      "notes": "Optional slide to complete - if in our research we have found any important percentages or numbers, we can add them here and then a description of it below. Optional image descriptions for small thumbnail for each number.",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g30b5aa971a7_0_63",
+            "text": "81% of young consumers prioritize self-care in their daily routines."
+          },
+          {
+            "objectId": "g30b5aa971a7_0_66",
+            "text": "62% of users report increased brand interest after engaging with sensory, short-form content."
+          },
+          {
+            "objectId": "g30b5aa971a7_0_78",
+            "text": "Inspirational Evidence"
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g30b5aa971a7_0_71",
+            "image_description": "Graph illustrating the rise in self-care trends among young consumers.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g30b5aa971a7_0_72",
+            "image_description": "Infographic showcasing the impact of digital short-form content on brand awareness.",
+            "isBackground": false
+          }
+        ]
+      }
+    },
+    {
+      "slideNumber": 6,
+      "notes": "Campaign tagline at the top with overview of each concept",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g32da51af346_2_1",
+            "text": "Escape to Your Moroccan Garden Retreat"
+          },
+          {
+            "objectId": "g32da51af346_2_2",
+            "text": "Oasis Escape"
+          },
+          {
+            "objectId": "g32da51af346_2_3",
+            "text": "Scented Journey"
+          },
+          {
+            "objectId": "g32da51af346_2_4",
+            "text": "Spa Day, Every Day"
+          },
+          {
+            "objectId": "g32da51af346_2_5",
+            "text": "A visual transformation from stress to a serene Moroccan oasis, where a simple wash becomes a luxurious escape."
+          },
+          {
+            "objectId": "g32da51af346_2_6",
+            "text": "A dynamic journey through signature scent notes that transport viewers into vibrant Moroccan worlds."
+          },
+          {
+            "objectId": "g32da51af346_2_7",
+            "text": "Everyday moments reimagined as indulgent self-care rituals with a Moroccan twist."
+          }
+        ],
+        "IMAGE": []
+      }
+    },
+    {
+      "slideNumber": 7,
+      "notes": "Concept 1 Title Page containing title and short description",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g32da51af346_2_13",
+            "text": "Oasis Escape"
+          },
+          {
+            "objectId": "g32da51af346_2_15",
+            "text": "Transforms everyday stress into a luxurious escape. Visuals depict a rapid transition from a modern, stressful bathroom scene into an enchanting Moroccan oasis, using AI effects and 3D product renderings to showcase how Herbal Essences transforms your shower into a sensory retreat."
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g32da51af346_2_11",
+            "image_description": "Background image featuring soft Moroccan mosaic patterns and lush garden elements.",
+            "isBackground": true
+          }
+        ]
+      }
+    },
+    {
+      "slideNumber": 8,
+      "notes": "5 image storyboard page with numbers and below each number is a short animation, sound fx description under each image (can add more info if you like but keep it within 1-2 sentences). You do not have to populate all 5 sections if we eg. only created 4 scenes for a particular concept.",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g32da51af346_2_19",
+            "text": "#1"
+          },
+          {
+            "objectId": "g32da51af346_2_20",
+            "text": "TIKTOK 9:16"
+          },
+          {
+            "objectId": "g32da51af346_2_22",
+            "text": "Scene 1: Stressed to Ready – A close-up of a young woman in a modern bathroom, showing visible stress with animated icons (like floating emails or calendar pages) symbolizing daily pressure."
+          },
+          {
+            "objectId": "g32da51af346_2_64",
+            "text": "01"
+          },
+          {
+            "objectId": "g32da51af346_2_65",
+            "text": "Quick animation transitions stress elements into soft water droplets as the scene begins."
+          },
+          {
+            "objectId": "g32da51af346_2_75",
+            "text": "02"
+          },
+          {
+            "objectId": "g32da51af346_2_76",
+            "text": "Scene 2: Water Transformation – Water droplets morph into flower petals, transitioning the scene from a stark bathroom to a warm, golden Moroccan garden."
+          },
+          {
+            "objectId": "g32da51af346_2_77",
+            "text": "03"
+          },
+          {
+            "objectId": "g32da51af346_2_78",
+            "text": "Scene 3: Oasis Reveal – The woman now appears in a serene Moroccan spa setting, with ornate architectural details and the 3D product bottle materializing beside her."
+          },
+          {
+            "objectId": "g32da51af346_2_79",
+            "text": "04"
+          },
+          {
+            "objectId": "g32da51af346_2_80",
+            "text": "Scene 4: Product Showcase – A close-up, rotating 3D view of the Herbal Essences bottle with elegant mandala overlays and the text 'Your Moroccan Garden Retreat' appearing with a soft chime."
+          },
+          {
+            "objectId": "g32da51af346_2_81",
+            "text": "05"
+          },
+          {
+            "objectId": "g32da51af346_2_82",
+            "text": "Optional: Final Touch – The scene fades to the Herbal Essences logo and campaign tagline, reinforcing brand recall."
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g32da51af346_2_21",
+            "image_description": "Image of a stressed woman in a modern bathroom with ambient, cool lighting.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_23",
+            "image_description": "Image of water droplets merging into delicate flower petals.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_33",
+            "image_description": "Image of a luxurious Moroccan garden spa setting with ornate details.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_34",
+            "image_description": "Image of a 3D rendered Herbal Essences bottle rotating against a patterned background.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_44",
+            "image_description": "Image of the Herbal Essences logo with decorative mandala elements.",
+            "isBackground": false
+          }
+        ]
+      }
+    },
+    {
+      "slideNumber": 9,
+      "notes": "Concept 2 Title Page containing title and short description",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g32da51af346_2_141",
+            "text": "Scented Journey"
+          },
+          {
+            "objectId": "g32da51af346_2_143",
+            "text": "A dynamic journey through the product’s signature scent notes. This concept uses vibrant, AI-enhanced visuals to transform citrus, spice, and vanilla into immersive Moroccan scenes that transport the viewer into an exotic retreat."
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g32da51af346_2_139",
+            "image_description": "Background image featuring Moroccan market elements and vibrant botanical textures.",
+            "isBackground": true
+          }
+        ]
+      }
+    },
+    {
+      "slideNumber": 10,
+      "notes": "5 image storyboard page with numbers and below each number is a short animation, sound fx description under each image (can add more info if you like but keep it within 1-2 sentences). You do not have to populate all 5 sections if we eg. only created 4 scenes for a particular concept.",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g32da51af346_2_147",
+            "text": "#2"
+          },
+          {
+            "objectId": "g32da51af346_2_148",
+            "text": "TIKTOK 9:16"
+          },
+          {
+            "objectId": "g32da51af346_2_150",
+            "text": "< 15 SEC"
+          },
+          {
+            "objectId": "g32da51af346_2_192",
+            "text": "01"
+          },
+          {
+            "objectId": "g32da51af346_2_193",
+            "text": "Scene 1: Citrus Burst – Citrus fruits and blossoms erupt in a burst of golden light, transitioning into a sunlit Moroccan grove."
+          },
+          {
+            "objectId": "g32da51af346_2_203",
+            "text": "02"
+          },
+          {
+            "objectId": "g32da51af346_2_204",
+            "text": "Scene 2: Spice Market – The vibrant citrus scene shifts into an animated display of saffron, cinnamon, and spice clouds, evoking a dynamic Moroccan market."
+          },
+          {
+            "objectId": "g32da51af346_2_205",
+            "text": "03"
+          },
+          {
+            "objectId": "g32da51af346_2_206",
+            "text": "Scene 3: Vanilla Dream – The spice elements dissolve into soft vanilla clouds, revealing a serene, candlelit Moroccan bath setting."
+          },
+          {
+            "objectId": "g32da51af346_2_207",
+            "text": "04"
+          },
+          {
+            "objectId": "g32da51af346_2_208",
+            "text": "Scene 4: Scent Convergence – The distinct scent journeys merge around the 3D product bottle with dynamic overlays."
+          },
+          {
+            "objectId": "g32da51af346_2_209",
+            "text": "05"
+          },
+          {
+            "objectId": "g32da51af346_2_210",
+            "text": "Scene 5: Final Reveal – The Herbal Essences bottle is showcased with ornate Moroccan patterns and the text 'Indulge Every Sense' appears."
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g32da51af346_2_149",
+            "image_description": "Image of a vibrant citrus burst with vivid oranges and gold highlights.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_151",
+            "image_description": "Image of a sunlit Moroccan citrus grove.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_161",
+            "image_description": "Image of an exotic spice market scene with rich reds and golds.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_162",
+            "image_description": "Image of soft, creamy vanilla clouds in a serene setting.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_172",
+            "image_description": "Image of the 3D product bottle emerging amid blended scent visuals.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_182",
+            "image_description": "Image of the final product reveal with ornate Moroccan patterns.",
+            "isBackground": false
+          }
+        ]
+      }
+    },
+    {
+      "slideNumber": 11,
+      "notes": "Concept 3 Title Page containing title and short description",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g32da51af346_2_216",
+            "text": "Spa Day, Every Day"
+          },
+          {
+            "objectId": "g32da51af346_2_218",
+            "text": "A series of split-screen vignettes that transform everyday moments into luxurious Moroccan-inspired self-care rituals. Quick cuts showcase morning, midday, and evening routines reimagined as spa escapes."
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g32da51af346_2_214",
+            "image_description": "Background image featuring serene Moroccan spa elements and lifestyle imagery.",
+            "isBackground": true
+          }
+        ]
+      }
+    },
+    {
+      "slideNumber": 12,
+      "notes": "5 image storyboard page with numbers and below each number is a short animation, sound fx description under each image (can add more info if you like but keep it within 1-2 sentences). You do not have to populate all 5 sections if we eg. only created 4 scenes for a particular concept.",
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "g32da51af346_2_222",
+            "text": "#3"
+          },
+          {
+            "objectId": "g32da51af346_2_223",
+            "text": "TIKTOK 9:16"
+          },
+          {
+            "objectId": "g32da51af346_2_225",
+            "text": "< 15 SEC"
+          },
+          {
+            "objectId": "g32da51af346_2_267",
+            "text": "01"
+          },
+          {
+            "objectId": "g32da51af346_2_268",
+            "text": "Scene 1: Morning Refresh – A woman in a plush robe, with soft natural light and subtle Moroccan architectural overlays, begins her day with a moment of calm."
+          },
+          {
+            "objectId": "g32da51af346_2_278",
+            "text": "02"
+          },
+          {
+            "objectId": "g32da51af346_2_279",
+            "text": "Scene 2: Midday Escape – A quick, refreshing shower breaks up a hectic day, with split-screen visuals and dynamic Moroccan patterns."
+          },
+          {
+            "objectId": "g32da51af346_2_280",
+            "text": "03"
+          },
+          {
+            "objectId": "g32da51af346_2_281",
+            "text": "Scene 3: Evening Wind-Down – A mom enjoys a candle-lit, spa-like shower with warm amber tones and elegant decorative details."
+          },
+          {
+            "objectId": "g32da51af346_2_282",
+            "text": "04"
+          },
+          {
+            "objectId": "g32da51af346_2_283",
+            "text": "Scene 4: Transformation Montage – Quick flashes of glossy, refreshed hair and joyful expressions merge with a unifying Moroccan aesthetic."
+          },
+          {
+            "objectId": "g32da51af346_2_284",
+            "text": "05"
+          },
+          {
+            "objectId": "g32da51af346_2_285",
+            "text": "Scene 5: Final Product Reveal – A strong 3D shot of the Herbal Essences bottle appears against an ornate background with the tagline 'Spa Day, Every Day' and the Herbal Essences logo."
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "g32da51af346_2_224",
+            "image_description": "Image of a serene morning scene with soft light and Moroccan mosaic details.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_226",
+            "image_description": "Image of a dynamic split-screen transition with lifestyle imagery and subtle Moroccan patterns.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_236",
+            "image_description": "Image of an evening candle-lit shower with warm, ambient lighting.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_237",
+            "image_description": "Image of a montage featuring refreshed, happy users in diverse settings.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_247",
+            "image_description": "Image of a 3D product shot against a decorative mandala background.",
+            "isBackground": false
+          },
+          {
+            "objectId": "g32da51af346_2_257",
+            "image_description": "Image of a final branded scene displaying the campaign tagline overlay.",
+            "isBackground": false
+          }
+        ]
+      }
+    }
+  ]
+}
