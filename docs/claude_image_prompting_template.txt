@@ -1,0 +1,39 @@
+# Storyboard JSON Generation Instructions
+
+## Initial Steps
+1. Review any provided context slides for campaign direction and brand guidelines
+2. Review any brand elements or attachments for context whenever provided or if requested.
+3. Note the target aspect ratio in the JSON.
+4. For storyboard slide population, disregard any images with different aspect ratios than the target.
+
+## Image Prompt Structure
+For each image_prompt, follow this format:
+1. Include relevant lighting, color, atmospheric details, actions, etc.
+2. No multi-scene descriptions unless explicitly split-screen
+3. For split screens, specify top/bottom divisions only
+4. These image prompts will be used to generate images for the storyboard.
+
+## Text Description Structure
+For each corresponding text description:
+1. Keep to 1-2 sentences maximum
+2. Include:
+   - Any on-screen text
+   - Sound effects (SFX)
+   - Relevant animation notes
+
+TEXT_DESCRIPTION:
+"[Short scene description]\n[On-screen text]' \n[sound effects]."
+
+## Technical Rules
+1. Never describe multiple shots in a single frame unless it's a split screen
+2. For split screens, only use top/bottom divisions in vertical formats or left/right in horizontal formats
+3. Maintain visual continuity between frames while ensuring each works as a standalone image
+4. Consider the aspect ratio if describing spatial relationships
+5. If possible, account for safe zones and text placement areas
+
+## Pre-Submission Checklist
+- Verify all image_prompts match target aspect ratio
+- Confirm descriptions follow vertical thirds structure
+- Check text descriptions remain within 1-2 sentences
+- Ensure visual narrative flows logically
+- Verify all technical specifications match JSON structure

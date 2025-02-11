@@ -1,0 +1,780 @@
+{
+    "slides": [
+      {
+        "slideNumber": 1,
+        "exists": true,
+        "notes": "Title page with Uncle Toby logo",
+        "elements": {
+          "TEXT": [],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_0",
+              "image_prompt": "",
+              "isBackground": true
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 2,
+        "exists": true,
+        "notes": "Replace Campaign Name for [campaign name]",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32987f8d813_0_2",
+              "text": "Thanks for taking the time to review our [campaign name] focused ideation deck."
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_44",
+              "image_prompt": "",
+              "isBackground": true
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 3,
+        "exists": true,
+        "notes": "No Changes Needed",
+        "elements": {
+          "TEXT": [],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_46",
+              "image_prompt": "",
+              "isBackground": true
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 4,
+        "exists": true,
+        "notes": "No Changes Needed",
+        "elements": {
+          "TEXT": [],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_51",
+              "image_prompt": "",
+              "isBackground": true
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 5,
+        "exists": false,
+        "notes": "Market Analysis - Part 1",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Market Analysis (Part 1)"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Protein bars in Australia enjoy broad appeal across ages\n• Demand driven by busy lifestyles & desire for convenient nutrition\n• Motives: Fitness, muscle-building, weight management, on-the-go snacking\n• Taste and texture are critical factors for repeat purchase"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 6,
+        "exists": false,
+        "notes": "Market Analysis - Part 2",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Market Analysis (Part 2)"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Consumers seek bars with high protein, low sugar, and natural ingredients\n• Older demographics increasingly adopting protein bars for healthy ageing\n• Price sensitivity leads shoppers to promotions; brand switching is common\n• Packaging & labeling transparency (ingredient lists) builds consumer trust"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 7,
+        "exists": false,
+        "notes": "Purchase Habits",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Purchase Habits"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Supermarkets dominate for convenience & promotions\n• Health/supplement stores attract fitness enthusiasts\n• Online bulk buying & subscriptions on the rise\n• Price & value are key drivers; consumers often stock up on sale"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 8,
+        "exists": false,
+        "notes": "Market & Competitive Landscape - Part 1",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Market & Competitive Landscape (1)"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Rapid market growth (~9-10% annually)\n• Estimated retail sales > AUD 300 million in protein/energy bars\n• Category includes global giants (Nestlé, Mars) & local brands (Musashi, BSc)\n• Fragmented market: brand loyalty moderate, frequent new entrants"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 9,
+        "exists": false,
+        "notes": "Market & Competitive Landscape - Part 2",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Market & Competitive Landscape (2)"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Innovation focuses on plant-based proteins, low sugar, functional ingredients\n• Taste & texture remain top differentiators\n• Large players leverage established brands (MILO, Uncle Tobys) for mass appeal\n• Smaller challengers target niche segments (clean label, collagen, keto, etc.)"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 10,
+        "exists": false,
+        "notes": "Social Media & Digital Trends",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Social Media & Digital Trends"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Influencers & user-generated reviews drive brand awareness\n• TikTok & Instagram content: taste tests, humorous memes, #proteinbar challenges\n• Authentic influencer partnerships (fitness, lifestyle) boost credibility\n• Engaging short-form videos & product highlights spark viral interest"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 11,
+        "exists": false,
+        "notes": "Marketing & Communication Strategies - Part 1",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Marketing & Comm Strategies (1)"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Emphasize dual benefits: health (protein, nutrition) + indulgent taste\n• Transparency & trust: show real ingredients, no ‘hidden sugar’\n• Lifestyle integration: highlight quick, convenient fueling for active days\n• Social proof: testimonials, user stories, influencer endorsements"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 12,
+        "exists": false,
+        "notes": "Marketing & Communication Strategies - Part 2",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Marketing & Comm Strategies (2)"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Digital-first approach: targeted ads, retargeting, influencer collabs\n• In-store sampling & strong packaging design for trial & shelf appeal\n• Educational content: protein benefits, usage occasions, brand story\n• Seasonal or thematic campaigns (New Year’s resolutions, summer fitness)"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 13,
+        "exists": false,
+        "notes": "Future Growth & Innovation - Part 1",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Future Growth & Innovation (1)"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Continued rise of plant-based, sustainable proteins\n• More functional ingredients: collagen, probiotics, adaptogens\n• Texture breakthroughs: layered, whipped, crunchy combos\n• Personalization potential: custom macro blends, subscription services"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 14,
+        "exists": false,
+        "notes": "Future Growth & Innovation - Part 2",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Future Growth & Innovation (2)"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Eco-friendly packaging & ethical sourcing increasingly important\n• Potential for senior-focused or kid-focused lines\n• Blurring boundaries: snack bars becoming ‘high-protein’ by default\n• Regulatory and labeling updates may push clean-label, transparent claims"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 15,
+        "exists": true,
+        "notes": "Campaign tagline at the top with overview of each concept",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32987f8d813_0_3",
+              "text": "<campaign tagline e.g. Fuel Your Focus, Naturally>"
+            },
+            {
+              "objectId": "g32987f8d813_0_4",
+              "text": "Fuel Your Fun (Concept 1)"
+            },
+            {
+              "objectId": "g32987f8d813_0_5",
+              "text": "Smart Snack, Super Yummy (Concept 2)"
+            },
+            {
+              "objectId": "g32987f8d813_0_6",
+              "text": "Naturally Indulgent (Concept 3)"
+            },
+            {
+              "objectId": "g32987f8d813_0_7",
+              "text": "Concept 1 overview: Vibrant, active imagery highlighting enjoyment + energy"
+            },
+            {
+              "objectId": "g32987f8d813_0_8",
+              "text": "Concept 2 overview: Dual approval (healthy & tasty) in a fun, split-screen style"
+            },
+            {
+              "objectId": "g32987f8d813_0_9",
+              "text": "Concept 3 overview: Spotlight on real, natural ingredients for indulgence"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+  
+      {
+        "slideNumber": 16,
+        "exists": true,
+        "notes": "Concept 1 Title Page containing title and short description",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32987f8d813_0_11",
+              "text": "Fuel Your Fun"
+            },
+            {
+              "objectId": "g32987f8d813_0_13",
+              "text": "A vibrant campaign showing people enjoying life’s fun moments, powered by the bar’s healthy and tasty benefits."
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_64",
+              "image_prompt": "",
+              "isBackground": true
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 17,
+        "exists": false,
+        "notes": "Concept 1 Art Direction",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Concept 1: Art Direction"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Bright, energetic visuals with motion blur to convey activity\n• Emphasize real ingredients (nuts, chocolate) in a playful swirl\n• Warm, sunny color tones & bold fonts evoke fun and excitement\n• Showcase everyday active moments (roller-skating, hiking, beach volleyball)"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 18,
+        "exists": false,
+        "notes": "Concept 1 Rationale",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Concept 1: Rationale"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Positions the bar as the perfect companion to fun, active lifestyles\n• Aligns with consumer desire for convenient energy & taste\n• Reinforces brand as enabling feel-good, on-the-go experiences\n• Reflects research showing taste + convenience drive mainstream adoption"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 19,
+        "exists": true,
+        "notes": "Concept 1: 5 image storyboard page",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32987f8d813_0_19",
+              "text": "TIKTOK STORYBOARD"
+            },
+            {
+              "objectId": "g32987f8d813_0_20",
+              "text": "TIKTOK 9:16"
+            },
+            {
+              "objectId": "g32987f8d813_0_22",
+              "text": "< 15 SEC"
+            },
+            {
+              "objectId": "g32987f8d813_0_73",
+              "text": "01"
+            },
+            {
+              "objectId": "g32987f8d813_0_75",
+              "text": "Opening scene establishing beach location. On-screen text animates in center: 'Every Adventure Needs Fuel'. SFX: Bag zipping sound, soft beach ambiance. Duration: 2 seconds"
+            },
+            {
+              "objectId": "g32987f8d813_0_78",
+              "text": "02"
+            },
+            {
+              "objectId": "g32987f8d813_0_80",
+              "text": "Action sequence focusing on product consumption moment. No on-screen text. SFX: Satisfying bite crunch, upbeat music builds. Duration: 2 seconds"
+            },
+            {
+              "objectId": "g32987f8d813_0_83",
+              "text": "03"
+            },
+            {
+              "objectId": "g32987f8d813_0_85",
+              "text": "Split screen showcasing ingredients and benefits. On-screen text center: '10g Protein | Real Ingredients'. SFX: Whoosh transition, upbeat music continues. Duration: 2 seconds"
+            },
+            {
+              "objectId": "g32987f8d813_0_88",
+              "text": "04"
+            },
+            {
+              "objectId": "g32987f8d813_0_90",
+              "text": "Sunset transition moment. No on-screen text. SFX: Wrapper crinkling, gentle wave sounds, distant laughter. Duration: 2 seconds"
+            },
+            {
+              "objectId": "g32987f8d813_0_93",
+              "text": "05"
+            },
+            {
+              "objectId": "g32987f8d813_0_95",
+              "text": "Final brand statement. On-screen text bottom third: 'Fuel Your Fun' with Uncle Toby's logo. SFX: Brand mnemonic sound, music resolves. Duration: 2 seconds"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32987f8d813_0_21",
+              "image_prompt": "9:16 vertical shot of an Australian beach. Lower third: hands reaching into a bright blue backpack, pulling out an Uncle Toby's protein bar that catches sunlight. Upper two-thirds: sandy beach stretches to ocean horizon with scattered beach umbrellas and volleyball nets. Left side features coastal rocks, right side shows ocean waves.",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32987f8d813_0_23",
+              "image_prompt": "9:16 vertical close-up shot focusing on a young woman (mid-20s) taking a bite of the protein bar. Background slightly blurred but shows beach setting. Bar positioned in center frame, held at eye level. Left side of frame shows some almond pieces visible in the bar's cross-section. Right side shows ocean horizon line.",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32987f8d813_0_33",
+              "image_prompt": "9:16 vertical split screen. Top half: whole almonds, chocolate chunks, and oats spinning against white background, ingredients largest in center, getting smaller toward edges. Bottom half: close-up of protein bar wrapper showing nutrition facts and '10g Protein' callout. Center line dividing screen has subtle golden glow effect.",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32987f8d813_0_43",
+              "image_prompt": "9:16 vertical golden hour shot. Lower third: hands unwrapping an Uncle Toby's protein bar. Middle: coastal rocks with small tide pools reflecting sunset. Upper third: orange-pink sky with scattered clouds. Left edge shows beach grasses in shadow, right edge reveals distant headland.",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32987f8d813_0_53",
+              "image_prompt": "9:16 vertical sunset product shot. Bottom third: five Uncle Toby's protein bars arranged in ascending fan pattern on weathered driftwood. Middle: bonfire starting to glow. Top third: dramatic sunset sky with striated clouds. Left side has silhouetted beach grasses, right side shows ocean meeting horizon.",
+              "isBackground": false
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 20,
+        "exists": true,
+        "notes": "Concept 2 Title Page containing title and short description",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32da420137a_0_3",
+              "text": "Smart Snack, Super Yummy"
+            },
+            {
+              "objectId": "g32da420137a_0_5",
+              "text": "A playful split-view campaign showing both the ‘healthy’ and ‘indulgent’ sides, proving you can have the best of both worlds."
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32da420137a_0_1",
+              "image_prompt": "",
+              "isBackground": true
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 21,
+        "exists": false,
+        "notes": "Concept 2 Art Direction",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Concept 2: Art Direction"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Split-screen or dual imagery: one side serious/health, one side fun/treat\n• Contrasting colors (cool vs. warm) to highlight the two perspectives\n• Stamps or checkmarks to call out nutrition facts (protein, low sugar)\n• Light, humorous tone with a ‘surprise’ that healthy can be delicious"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 22,
+        "exists": false,
+        "notes": "Concept 2 Rationale",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Concept 2: Rationale"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Addresses consumer tension between health and indulgence\n• Reinforces brand transparency: you can trust the nutritional claims\n• Showcases a fun approach, tapping into comedic social media trends\n• Emphasizes that taste remains a top priority even with healthy attributes"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 23,
+        "exists": true,
+        "notes": "Concept 2: 5 image storyboard page",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32da420137a_0_9",
+              "text": "02"
+            },
+            {
+              "objectId": "g32da420137a_0_10",
+              "text": "TIKTOK 9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_12",
+              "text": "< 15 SEC"
+            },
+            {
+              "objectId": "g32da420137a_0_54",
+              "text": "01"
+            },
+            {
+              "objectId": "g32da420137a_0_55",
+              "text": "<01 description>"
+            },
+            {
+              "objectId": "g32da420137a_0_65",
+              "text": "02"
+            },
+            {
+              "objectId": "g32da420137a_0_66",
+              "text": "<02 description>"
+            },
+            {
+              "objectId": "g32da420137a_0_67",
+              "text": "03"
+            },
+            {
+              "objectId": "g32da420137a_0_68",
+              "text": "<03 description>"
+            },
+            {
+              "objectId": "g32da420137a_0_69",
+              "text": "04"
+            },
+            {
+              "objectId": "g32da420137a_0_70",
+              "text": "<04 description>"
+            },
+            {
+              "objectId": "g32da420137a_0_71",
+              "text": "05"
+            },
+            {
+              "objectId": "g32da420137a_0_72",
+              "text": "<05 description>"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32da420137a_0_11",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_13",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_23",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_24",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_34",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_44",
+              "image_prompt": "",
+              "isBackground": false
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 24,
+        "exists": true,
+        "notes": "Concept 1 Title Page containing title and short description",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32da420137a_0_78",
+              "text": "Naturally Indulgent"
+            },
+            {
+              "objectId": "g32da420137a_0_80",
+              "text": "Showcasing real, recognizable ingredients blended into a dessert-like bar, proving health and indulgence can go hand in hand."
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32da420137a_0_76",
+              "image_prompt": "",
+              "isBackground": true
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 25,
+        "exists": false,
+        "notes": "Concept 3 Art Direction",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Concept 3: Art Direction"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Focus on natural ingredient imagery (nuts, cocoa, fruit)\n• Deconstructed bar visuals morphing into a rich, chocolatey treat\n• Earthy, warm color palette with a ‘foodie magazine’ feel\n• Slow-motion close-ups of swirling chocolate or drizzling honey for indulgence"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 26,
+        "exists": false,
+        "notes": "Concept 3 Rationale",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "placeholder": "TITLE",
+              "text": "Concept 3: Rationale"
+            },
+            {
+              "placeholder": "BODY",
+              "text": "• Addresses consumer desire for ‘clean label’ & real food\n• Showcases the bar as a guilt-free dessert alternative\n• Taps into the trend of transparent, wholesome ingredients\n• Reinforces that indulgent taste is possible with minimal processing"
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 27,
+        "exists": true,
+        "notes": "Concept 3: 5 image storyboard page",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32da420137a_0_84",
+              "text": "02"
+            },
+            {
+              "objectId": "g32da420137a_0_85",
+              "text": "TIKTOK 9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_87",
+              "text": "< 15 SEC"
+            },
+            {
+              "objectId": "g32da420137a_0_129",
+              "text": "01"
+            },
+            {
+              "objectId": "g32da420137a_0_130",
+              "text": "<01 description>"
+            },
+            {
+              "objectId": "g32da420137a_0_140",
+              "text": "02"
+            },
+            {
+              "objectId": "g32da420137a_0_141",
+              "text": "<02 description>"
+            },
+            {
+              "objectId": "g32da420137a_0_142",
+              "text": "03"
+            },
+            {
+              "objectId": "g32da420137a_0_143",
+              "text": "<03 description>"
+            },
+            {
+              "objectId": "g32da420137a_0_144",
+              "text": "04"
+            },
+            {
+              "objectId": "g32da420137a_0_145",
+              "text": "<04 description>"
+            },
+            {
+              "objectId": "g32da420137a_0_146",
+              "text": "05"
+            },
+            {
+              "objectId": "g32da420137a_0_147",
+              "text": "<05 description>"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32da420137a_0_86",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_88",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_98",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_99",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_109",
+              "image_prompt": "",
+              "isBackground": false
+            },
+            {
+              "objectId": "g32da420137a_0_119",
+              "image_prompt": "",
+              "isBackground": false
+            }
+          ]
+        }
+      },
+  
+      {
+        "slideNumber": 28,
+        "exists": true,
+        "notes": "Add your decision making details on this slide",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32e9918d7c7_1_226",
+              "text": "02"
+            },
+            {
+              "objectId": "g32e9918d7c7_1_227",
+              "text": "The decision-making for each concept was guided by the target audience’s desire for nutrition without sacrificing flavor. Each creative route addresses a specific consumer mindset—active and fun, health-vs.-taste tension, and natural indulgence—rooted in research showing that taste, convenience, and transparency are critical for protein bar success."
+            }
+          ],
+          "IMAGE": []
+        }
+      }
+    ]
+  }
+  

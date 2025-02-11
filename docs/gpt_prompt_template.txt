@@ -1,0 +1,83 @@
+You are going to help enhance this presentation by analyzing our research and updating the provided JSON format. You will:
+
+1. Review and update the existing slides JSON format based on our discussion and research. You should review the notes section of each slide to understand the context and purpose of the slide, and what may or may not need to be updated.
+2. Create new slides for these additional topics (note: you can place these slides wherever makes most sense in the presentation flow - this list order doesn't dictate the final slide order):
+- add 6-12 slides throughout giving context on research findings, eg product analysis, market analysis, etc.
+- Place an Art Direction slide after each concepts title page. Be descriptive but not overly descriptive, sort of a dynamically interpretable story and or overview based on the information that has been gathered. the goal is for another LLM to create the image prompts based on your provided information PLUS branded images that it can reference (that you dont have access to)
+- Place a rationale slide after each storyboard slide per concept to desribe reasons for creative decisions
+
+Available Layout Types and Their Placeholders:
+- BLANK: No predefined placeholders
+- TITLE: Contains only a title placeholder
+- TITLE_AND_BODY: Contains a title and a body placeholder (supports bullets)
+- TITLE_AND_TWO_COLUMNS: Contains a title and two body placeholders side by side
+- MAIN_POINT: Title placeholder with a larger font size
+- SECTION_HEADER: Used for section transitions
+- CAPTION_ONLY: Single placeholder at the bottom
+- TITLE_ONLY: Only a title placeholder, different from TITLE layout
+
+When using layouts with placeholders, reference them as:
+- "TITLE" for title placeholders
+- "BODY" for body placeholders
+- "BODY_1" and "BODY_2" for two-column layouts
+
+Your output must be a complete JSON following this exact structure:
+{
+  "slides": [
+    // EXISTING SLIDES: Use the same structure as input, but update content
+    {
+      "slideNumber": 1,
+      "exists": true,  // Keep this true for existing slides
+      "notes": "Title slide",
+      "layout": "TITLE_ONLY",  // Added layout field
+      "elements": {
+        "TEXT": [
+          {
+            "objectId": "existing_id",  // Keep existing IDs
+            "text": "Updated content here"
+          }
+        ],
+        "IMAGE": [
+          {
+            "objectId": "existing_image_id",
+            "image_prompt": "",  // Leave empty - will be handled separately
+            "isBackground": false,
+            "aspect_ratio": "16:9"  // Added aspect_ratio field for images
+          }
+        ]
+      }
+    },
+    
+    // NEW SLIDES: Same structure but marked as non-existing
+    {
+      "slideNumber": 5,  // Insert at this position
+      "exists": false,   // Must be false for new slides
+      "notes": "Describe slide purpose",
+      "layout": "TITLE_AND_BODY",  // Specify one of the available layouts
+      "elements": {
+        "TEXT": [
+          {
+            "text": "New slide title",
+            "placeholder": "TITLE"  // Must match placeholder name for chosen layout
+          },
+          {
+            "text": "• First bullet point\n• Second bullet point",
+            "placeholder": "BODY"  // Must match placeholder name for chosen layout
+          }
+        ],
+        "IMAGE": []  // Empty array if no images
+      }
+    }
+  ]
+}
+Important:
+- For existing slides, keep their original objectIds and slide numbers
+- For new slides, don't include objectIds in the elements
+- Order all slides (existing and new) in the sequence you recommend
+- All slide numbers should be sequential without gaps
+- Keep the formatting and structure exact - this JSON will be programmatically processed
+- Do not add IMAGE elements to new slides
+- Leave all image_prompt fields empty in existing slides
+- When using layouts, ensure placeholder names match the available placeholders for that layout
+
+Review the research and our discussion, then provide the complete updated JSON with your recommended slide sequence and content updates.

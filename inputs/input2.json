@@ -1,0 +1,780 @@
+{
+    "slides": [
+      {
+        "slideNumber": 1,
+        "exists": true,
+        "notes": "Title page with Uncle Toby logo",
+        "layout": "BLANK",
+        "elements": {
+          "TEXT": [],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_0",
+              "image_prompt": "",
+              "isBackground": true,
+              "aspect_ratio": "16:9"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 2,
+        "exists": true,
+        "notes": "Replace Campaign Name for [campaign name]",
+        "layout": "TITLE_ONLY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32987f8d813_0_2",
+              "text": "Thanks for taking the time to review our [campaign name] focused ideation deck.",
+              "placeholder": "TITLE"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_44",
+              "image_prompt": "",
+              "isBackground": true,
+              "aspect_ratio": "16:9"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 3,
+        "exists": true,
+        "notes": "No Changes Needed",
+        "layout": "BLANK",
+        "elements": {
+          "TEXT": [],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_46",
+              "image_prompt": "",
+              "isBackground": true,
+              "aspect_ratio": "16:9"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 4,
+        "exists": true,
+        "notes": "No Changes Needed",
+        "layout": "BLANK",
+        "elements": {
+          "TEXT": [],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_51",
+              "image_prompt": "",
+              "isBackground": true,
+              "aspect_ratio": "16:9"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 5,
+        "exists": true,
+        "notes": "Campaign tagline at the top with overview of each concept",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32987f8d813_0_3",
+              "text": "<campaign tagline e.g. Fuel Your Focus, Naturally>",
+              "placeholder": "TITLE"
+            },
+            {
+              "objectId": "g32987f8d813_0_4",
+              "text": "Fuel Your Fun (Concept 1)",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_5",
+              "text": "Smart Snack, Super Yummy (Concept 2)",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_6",
+              "text": "Naturally Indulgent (Concept 3)",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_7",
+              "text": "Concept 1 overview: Vibrant, active imagery highlighting enjoyment + energy",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_8",
+              "text": "Concept 2 overview: Dual approval (healthy & tasty) in a fun, split-screen style",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_9",
+              "text": "Concept 3 overview: Spotlight on real, natural ingredients for indulgence",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 6,
+        "exists": true,
+        "notes": "Concept 1 Title Page containing title and short description",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32987f8d813_0_11",
+              "text": "Fuel Your Fun",
+              "placeholder": "TITLE"
+            },
+            {
+              "objectId": "g32987f8d813_0_13",
+              "text": "A vibrant campaign showing people enjoying life’s fun moments, powered by the bar’s healthy and tasty benefits.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g2517f220e07_0_64",
+              "image_prompt": "",
+              "isBackground": true,
+              "aspect_ratio": "16:9"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 7,
+        "exists": true,
+        "notes": "Concept 1: 5 image storyboard page with numbers and short animation descriptions",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32987f8d813_0_19",
+              "text": "TIKTOK STORYBOARD",
+              "placeholder": "TITLE"
+            },
+            {
+              "objectId": "g32987f8d813_0_73",
+              "text": "01",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_75",
+              "text": "Opening scene establishing sun-drenched Australian beach. Young woman in activewear unpacking backpack. On-screen text animates: 'Every Adventure Needs Fuel'. SFX: Bag zipping sound, gentle wave ambiance.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_78",
+              "text": "02",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_80",
+              "text": "Close-up of satisfied bite into Uncle Toby's protein bar, red wrapper prominent. Athletic figure silhouetted against bright sky. No on-screen text. SFX: Satisfying crunch, upbeat Australian indie rock builds.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_83",
+              "text": "03",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_85",
+              "text": "Dynamic split screen: left shows protein bar ingredients, right shows surfer catching wave. On-screen text center: '10g Protein | Real Ingredients'. SFX: Whoosh transition, music continues.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_88",
+              "text": "04",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_90",
+              "text": "Golden hour beach volleyball game, protein bar visible in bag nearby. Friends laughing, active lifestyle moment. No on-screen text. SFX: Ball hitting, cheerful laughter, waves.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_93",
+              "text": "05",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32987f8d813_0_95",
+              "text": "Group photo moment at sunset, sharing Uncle Toby's bars. On-screen text bottom third: 'Fuel Your Fun' with Uncle Toby's logo. SFX: Brand mnemonic, music resolves.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32987f8d813_0_21",
+              "image_prompt": "Bright, sun-drenched Australian beach scene in vertical format. Young woman in colorful activewear kneeling beside open backpack. Golden sand and azure waters visible. Natural, vibrant lighting emphasizing outdoor activity.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32987f8d813_0_23",
+              "image_prompt": "Closeup action shot of hand holding red-wrapped Uncle Toby's protein bar mid-bite. Athletic figure silhouetted against bright blue sky. Dramatic lighting emphasizing texture and satisfaction.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32987f8d813_0_33",
+              "image_prompt": "Vertical split screen: Left side shows appetizing arrangement of oats, nuts, and protein bar ingredients. Right side shows dynamic shot of surfer on wave. Unified by warm, natural lighting.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32987f8d813_0_43",
+              "image_prompt": "Golden hour beach volleyball scene. Four friends playing volleyball, gym bag with visible red Uncle Toby's protein bar wrapper in foreground. Warm, energetic lighting emphasizing action and fun.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32987f8d813_0_53",
+              "image_prompt": "Sunset beach group shot. Five diverse friends sitting on beach wall, sharing Uncle Toby's protein bars. Warm golden lighting, ocean backdrop. Natural, candid moment capturing Australian lifestyle.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 8,
+        "exists": true,
+        "notes": "Concept 2 Title Page containing title and short description",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32da420137a_0_3",
+              "text": "Smart Snack, Super Yummy",
+              "placeholder": "TITLE"
+            },
+            {
+              "objectId": "g32da420137a_0_5",
+              "text": "A playful split-view campaign showing both the ‘healthy’ and ‘indulgent’ sides, proving you can have the best of both worlds.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32da420137a_0_1",
+              "image_prompt": "",
+              "isBackground": true,
+              "aspect_ratio": "16:9"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 9,
+        "exists": true,
+        "notes": "Concept 2: 5 image storyboard page with numbers and short animation descriptions",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32da420137a_0_54",
+              "text": "01",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_55",
+              "text": "Split screen opening: Top shows wholesome ingredients, bottom shows decadent chocolate drizzle. On-screen text splits: 'Smart' | 'Yummy'. SFX: Playful transition sound, light background music.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_65",
+              "text": "02",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_66",
+              "text": "Top shows nutritionist examining label, bottom shows satisfied bite reaction. On-screen text: '4-Star Health Rating'. SFX: Approval ding, satisfying crunch.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_67",
+              "text": "03",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_68",
+              "text": "Dynamic transition merging healthy ingredients into finished bar. On-screen text: 'The Best of Both Worlds'. SFX: Magical transformation sound, upbeat music builds.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_69",
+              "text": "04",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_70",
+              "text": "Split lifestyle shots: Top shows gym bag, bottom shows movie night snack. No on-screen text. SFX: Gym ambient sounds blend into cozy evening atmosphere.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_71",
+              "text": "05",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_72",
+              "text": "Final reveal of product range with ingredients. On-screen text: 'Smart Snack, Super Yummy' with Uncle Toby's logo. SFX: Brand mnemonic, music resolves.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32da420137a_0_13",
+              "image_prompt": "Vertical split screen: Top half shows fresh oats, nuts, and fruits in clean arrangement. Bottom half shows rich chocolate drizzle over protein bar. Professional studio lighting, clean background.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_23",
+              "image_prompt": "Vertical split composition: Top shows professional nutritionist in white coat examining Uncle Toby's bar label. Bottom shows close-up of satisfied smile during bite. Bright, clean lighting.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_24",
+              "image_prompt": "Single frame transition shot: Ingredients floating and combining to form Uncle Toby's protein bar. Clean white background with dramatic lighting highlighting transformation.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_34",
+              "image_prompt": "Vertical split lifestyle: Top shows protein bar in mesh pocket of gym bag with workout gear. Bottom shows cozy couch setting with protein bar among healthy movie snacks.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_44",
+              "image_prompt": "Professional product shot of Uncle Toby's protein bar range, surrounded by key ingredients. Clean, bright lighting with subtle shadows. Modern, minimal styling on white background.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 10,
+        "exists": true,
+        "notes": "Concept 3 Title Page containing title and short description",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32da420137a_0_78",
+              "text": "Naturally Indulgent",
+              "placeholder": "TITLE"
+            },
+            {
+              "objectId": "g32da420137a_0_80",
+              "text": "Showcasing real, recognizable ingredients blended into a dessert-like bar, proving health and indulgence can go hand in hand.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32da420137a_0_76",
+              "image_prompt": "",
+              "isBackground": true,
+              "aspect_ratio": "16:9"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 11,
+        "exists": true,
+        "notes": "Concept 3: 5 image storyboard page with numbers and short animation descriptions",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32da420137a_0_129",
+              "text": "01",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_130",
+              "text": "Extreme close-up of premium ingredients: honey drizzling over oats, nuts, and dark chocolate. On-screen text fades in: 'Real Ingredients'. SFX: Soft music begins, gentle pouring sound.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_140",
+              "text": "02",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_141",
+              "text": "Australian farmland transition to artisanal kitchen. Crafting protein bar shown with care. On-screen text: 'Carefully Crafted'. SFX: Gentle cooking sounds, soft guitar.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_142",
+              "text": "03",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_143",
+              "text": "Luxurious unwrapping moment revealing protein bar texture. Close-up on natural ingredients visible in bar. No on-screen text. SFX: Premium unwrapping sound, music builds.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_144",
+              "text": "04",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_145",
+              "text": "Slow-motion bite showing perfect texture and layers. Focus on satisfaction and quality. On-screen text: 'Naturally Delicious'. SFX: Satisfying crunch, orchestral swell.",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_146",
+              "text": "05",
+              "placeholder": "BODY"
+            },
+            {
+              "objectId": "g32da420137a_0_147",
+              "text": "Final hero shot of bar with natural ingredients artfully arranged. On-screen text: 'Naturally Indulgent' with Uncle Toby's logo. SFX: Brand mnemonic, music resolves elegantly.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": [
+            {
+              "objectId": "g32da420137a_0_88",
+              "image_prompt": "Macro shot of golden honey drizzling over artfully arranged oats, premium nuts, and dark chocolate squares. Soft, warm lighting highlighting texture and quality. Natural wood surface backdrop.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_98",
+              "image_prompt": "Rustic kitchen scene with artisanal preparation of protein bar. Wooden cutting board, fresh ingredients, and warm lighting suggesting craftsmanship. Australian farmland visible through window.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_99",
+              "image_prompt": "Premium unwrapping shot of Uncle Toby's protein bar against dark background. Dramatic lighting highlighting texture of visible nuts, oats, and chocolate layers. Elegant composition.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_109",
+              "image_prompt": "Artistic slow-motion bite moment capturing perfect layers and texture. Soft focus background with spotlight on bar's cross-section showing premium ingredients.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            },
+            {
+              "objectId": "g32da420137a_0_119",
+              "image_prompt": "Hero product shot of Uncle Toby's protein bar surrounded by premium ingredients. Moody lighting with subtle gold accents. Rich wooden surface with scattered oats, nuts, and chocolate.",
+              "isBackground": false,
+              "aspect_ratio": "9:16"
+            }
+          ]
+        }
+      },
+      {
+        "slideNumber": 12,
+        "exists": true,
+        "notes": "Add your decision making details on this slide",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "objectId": "g32e9918d7c7_1_226",
+              "text": "02",
+              "placeholder": "TITLE"
+            },
+            {
+              "objectId": "g32e9918d7c7_1_227",
+              "text": "The decision-making for each concept was guided by the target audience’s desire for nutrition without sacrificing flavor. Each creative route addresses a specific consumer mindset—active and fun, health-vs.-taste tension, and natural indulgence—rooted in research showing that taste, convenience, and transparency are critical for protein bar success.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+  
+      {
+        "slideNumber": 13,
+        "exists": false,
+        "notes": "Research Findings: Brand Fundamentals & Identity",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Brand Fundamentals & Identity",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "• Uncle Tobys emphasizes healthy eating and active lifestyles\n• Strong Australian heritage dating back to 1860s\n• Core values: community, responsibility, quality\n• Iconic red branding, focus on wholesome oats and local partnerships",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 14,
+        "exists": false,
+        "notes": "Research Findings: Product Analysis",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Product Analysis",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "• ~7–9g protein per bar, plus ~3g fiber\n• 4-Star Health Star Rating, no artificial colors/flavors\n• Whole grains, nuts, fruits, superfood inclusions (e.g. goji, chia)\n• Balances taste and nutrition for everyday snacking",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 15,
+        "exists": false,
+        "notes": "Research Findings: Market & Competitive Landscape",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Market & Competitive Landscape",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "• Australian snack bar market growing ~6% annually\n• Protein bar segment ~USD $110M in 2024, projected to increase\n• Mainstream brands: Uncle Tobys, Carman’s, Kellogg’s\n• Niche players: Aussie Bodies, Quest, etc.\n• Uncle Tobys differentiates via heritage & 4-Star rating",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 16,
+        "exists": false,
+        "notes": "Research Findings: Audience & Consumer Insights",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Audience & Consumer Insights",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "• Core demo: busy, health-minded adults & parents\n• Seek convenient, tasty snacks with moderate protein\n• Positive feedback on texture, flavor, and brand trust\n• Nostalgic resonance: many grew up with Uncle Tobys",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 17,
+        "exists": false,
+        "notes": "Research Findings: Marketing & Communication Review",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Marketing & Communication Review",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "• Strong digital presence: Instagram, Facebook, website\n• Masterbrand campaign: “Great Grows Here” – unifies product lines\n• Emphasis on Aussie heritage, healthy lifestyle & real ingredients\n• Opportunities: bigger social media reach, more influencer tie-ins",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 18,
+        "exists": false,
+        "notes": "Research Findings: Financial & Performance Metrics",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Financial & Performance Metrics",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "• Uncle Tobys holds significant market share in cereal/snack bars\n• Estimated strong margins via scale & brand premium\n• 4-Star HSR displayed proudly, fosters competitive edge\n• Continuous product innovation likely fueling steady growth",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 19,
+        "exists": false,
+        "notes": "Research Findings: Distribution & Channel Effectiveness",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Distribution & Channel Effectiveness",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "• Widely available in Coles, Woolworths, IGA; also online\n• Prominent shelf space + frequent promotions\n• Opportunity in vending, gym concessions, kids’ canteens\n• E-commerce bulk packs (Amazon) performing well",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 20,
+        "exists": false,
+        "notes": "Research Findings: Future Opportunities & Recommendations",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Future Opportunities & Recommendations",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "• Consider plant-based/vegan protein line\n• Expand higher-protein offerings (12–15g)\n• Explore kids’ protein snacks & new flavor rotations\n• Enhance social presence & bolster brand consistency",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+  
+      {
+        "slideNumber": 21,
+        "exists": false,
+        "notes": "Art Direction for Concept 1",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Concept 1 Art Direction",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "Vibrant and active scenes referencing Aussie beaches, sunny skies, and playful movements. Visuals should highlight the bright red brand color in fun contexts. Emphasize energetic transitions, warm lighting, and approachable characters enjoying life’s moments.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 22,
+        "exists": false,
+        "notes": "Art Direction for Concept 2",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Concept 2 Art Direction",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "Split-screen visuals that emphasize the ‘healthy vs. indulgent’ aspects merging into one. Imagery of oats, nuts, fruits, and chocolate, side by side. Think dynamic transitions: half the screen showing fresh ingredients, the other half showing scrumptious drizzle or decadent texture—yet unified by the brand’s Aussie heritage warmth.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 23,
+        "exists": false,
+        "notes": "Art Direction for Concept 3",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Concept 3 Art Direction",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "Elegant close-ups of real ingredients—melting chocolate squares, bright berries, swirling honey—to evoke indulgence. Soft, warm lighting with subtle Aussie-themed backdrops (wooden boards, subtle farmland cues). A friendly, homespun aesthetic while highlighting premium textures and the brand’s comforting red palette.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+  
+      {
+        "slideNumber": 24,
+        "exists": false,
+        "notes": "Rationale for Concept 1",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Concept 1 Rationale",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "Shows everyday Aussies seamlessly fitting healthy protein bars into fun, active lifestyles. Aligns with brand’s heritage and the consumer insight that taste + convenience = more enjoyment. The energetic pace underlines Uncle Tobys as a catalyst for fueling good times.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 25,
+        "exists": false,
+        "notes": "Rationale for Concept 2",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Concept 2 Rationale",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "Addresses the tension between craving something indulgent yet wanting it to be healthy. The split-view approach dramatizes how Uncle Tobys Protein Bars satisfy both needs at once, echoing feedback that ‘it’s protein without tasting artificial.’ Clearly demonstrates the brand’s balance of real, wholesome ingredients with delicious flavor.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      },
+      {
+        "slideNumber": 26,
+        "exists": false,
+        "notes": "Rationale for Concept 3",
+        "layout": "TITLE_AND_BODY",
+        "elements": {
+          "TEXT": [
+            {
+              "text": "Concept 3 Rationale",
+              "placeholder": "TITLE"
+            },
+            {
+              "text": "Taps into the insight that consumers want a guilt-free indulgence. The focus on natural, recognizable ingredients underscores brand transparency and fosters trust. Visually highlighting the luscious elements ensures watchers immediately see both the ‘treat’ aspect and the inherent nutrition—positioning Uncle Tobys as a satisfying, better-for-you snack.",
+              "placeholder": "BODY"
+            }
+          ],
+          "IMAGE": []
+        }
+      }
+    ]
+  }
+  

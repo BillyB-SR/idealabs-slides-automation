@@ -1,5 +1,5 @@
 pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib Pillow
-```)
+```
 
 ---
 
@@ -14,7 +14,7 @@ Assumptions:
     that are mapped to concept IDs (e.g., "C1", "C2", ...).
   - A CSV file (e.g., concept_data.csv) contains a header row and one row per concept.
     The CSV must include a "Concept" column and can include any other columns.
-    The reserved column name "image_description" (case sensitive) is used for image generation.
+    The reserved column name "image_prompt" (case sensitive) is used for image generation.
   - The script will create a copy of your template presentation and then update the copy.
   - The image generation function is a dummy implementation using Pillow and should be replaced
     with your own API call if needed.
