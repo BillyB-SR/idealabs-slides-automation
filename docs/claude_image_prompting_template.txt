@@ -12,6 +12,7 @@ For each image_prompt, follow this format:
 2. No multi-scene descriptions unless explicitly split-screen
 3. For split screens, specify top/bottom divisions only
 4. These image prompts will be used to generate images for the storyboard.
+5. If referencing the product, you have to explicitly mention the product in the prompt.
 
 ## Text Description Structure
 For each corresponding text description:

@@ -1,7 +1,8 @@
 You are going to help enhance this presentation by analyzing our research and updating the provided JSON format. You will:
 
-1. Review and update the existing slides JSON format based on our discussion and research. You should review the notes section of each slide to understand the context and purpose of the slide, and what may or may not need to be updated.
-2. Create new slides for these additional topics (note: you can place these slides wherever makes most sense in the presentation flow - this list order doesn't dictate the final slide order):
+1. Review and update the existing slides JSON format based on our discussion and research. 
+2. Always review the notes section of each slide to understand the context and purpose of the slide, and what may or may not need to be updated.
+3. Create new slides for these additional topics (note: you can place these slides wherever makes most sense in the presentation flow - this list order doesn't dictate the final slide order):
 - add 6-12 slides throughout giving context on research findings, eg product analysis, market analysis, etc.
 - Place an Art Direction slide after each concepts title page. Be descriptive but not overly descriptive, sort of a dynamically interpretable story and or overview based on the information that has been gathered. the goal is for another LLM to create the image prompts based on your provided information PLUS branded images that it can reference (that you dont have access to)
 - Place a rationale slide after each storyboard slide per concept to desribe reasons for creative decisions
@@ -29,7 +30,6 @@ Your output must be a complete JSON following this exact structure:
       "slideNumber": 1,
       "exists": true,  // Keep this true for existing slides
       "notes": "Title slide",
-      "layout": "TITLE_ONLY",  // Added layout field
       "elements": {
         "TEXT": [
           {
@@ -41,7 +41,7 @@ Your output must be a complete JSON following this exact structure:
           {
             "objectId": "existing_image_id",
             "image_prompt": "",  // Leave empty - will be handled separately
-            "isBackground": false,
+            "isBackground": false, // Leave as is
             "aspect_ratio": "16:9"  // Added aspect_ratio field for images
           }
         ]
